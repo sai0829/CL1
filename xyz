@@ -1,2 +1,10 @@
 ML
 https://drive.google.com/drive/folders/1QoYTnuVy5_rHuzNKHEZu67rGc1mEVank?usp=drive_link
+
+DMV
+
+Data Aggregation
+Analyzing Sales Performance by Region in a Retail Company. Dataset: "Retail_Sales_Data.csv"
+1.Identify the relevant variables for aggregating sales data, such as region, sales amount, and product category. 
+2. Group the sales data by region and calculate the total sales amount for each region.
+3.Create bar plots or pie charts to visualize the sales distribution by region
